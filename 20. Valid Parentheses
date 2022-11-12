@@ -15,7 +15,7 @@ class Solution:
     return not stack
 
 
-######           java       ####
+######           java       #########
 
 class Solution {
   public boolean isPalindrome(int x) {
